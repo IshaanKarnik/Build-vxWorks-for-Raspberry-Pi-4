@@ -38,5 +38,7 @@ Extract the downloaded file using command
 On the Raspberry Pi 4 Model, GPIOs 14 and 15 are used as UART transmit and receive pins (Mini UART).
 
 Bps/Par/Bits       : 115200 8N1
+
 Hardware Flow Control : No
+
 Software Flow Control : No
